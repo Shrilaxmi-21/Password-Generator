@@ -1,9 +1,6 @@
 # Random Password Generator
 
-A simple web app built with HTML, CSS, and JavaScript that generates random passwords.
-
-## Live Demo
-[Add link if hosted on GitHub Pages]
+A simple web app built with HTML, CSS, and JavaScript that generates random passwords
 
 ## Features
 - Generates secure random passwords
